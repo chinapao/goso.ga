@@ -23,7 +23,7 @@ To Do List
 * Improvement on protection against attacks
 
 
-Installation
+**Installation**
 ~~~~~~~~~~~~
 
 -  install pip:
