@@ -30,7 +30,7 @@ To Do List
     yum install -y epel-release
     yum install -y python-pip
 -  clone source:
-   ``git clone https://github.com/chinapao/goso.ga.git && cd searx``
+   ``git clone https://github.com/chinapao/goso.ga.git && cd goso.ga``
 -  install dependencies: 
    ``pip install -r requirements.txt``
 -  edit your
